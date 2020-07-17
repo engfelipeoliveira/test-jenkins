@@ -1,4 +1,4 @@
-package br.com.jenkins;
+package br.com.jenkins.main;
 
 import static org.slf4j.LoggerFactory.getLogger;
 
